@@ -1,14 +1,14 @@
 # Xenogears Decompilation
-[![Build Status]][actions] [![Progress]][progress site]
+[![Build Status]][actions]
 
 [Build Status]: https://github.com/ladysilverberg/xenogears-decomp/actions/workflows/build.yaml/badge.svg
 [actions]: https://github.com/ladysilverberg/xenogears-decomp/actions/workflows/build.yaml
-[Progress]: https://decomp.dev/ladysilverberg/xenogears-decomp.svg?mode=shield&measure=code&category=all&label=Progress
-[progress site]: https://decomp.dev/ladysilverberg/xenogears-decomp
 
 This project is an in-progress matching decompilation of Xenogears for Playstation 1. The project currently targets the US release (SLUS 006.64), with the intention to target other releases as well down the road.
 
 <img src="https://i.imgur.com/FfAa7QA.png" />
+
+
 
 ## Thanks
 This project leans on a lot of work done by others before.
@@ -17,11 +17,13 @@ This project leans on a lot of work done by others before.
 -  [The silent hill decompilation](https://github.com/Vatuu/silent-hill-decomp/tree/master) - As a project structure template this project could be adapted from.
 -  [MASPSX](https://github.com/mkst/maspsx) - For making parts of building less painful
 -  [objdiff](https://github.com/encounter/objdiff) - For diffing
--  [decomp.dev](https://decomp.dev/) - For progress tracking
 -  [decomp.me](https://decomp.me/) - For decompiling in collaboration
 
-## Progress
-Progress is tracked and visualized on [decomp.dev](https://decomp.dev/ladysilverberg/xenogears-decomp).
+## Important notice
+This project has a strict stance against LLMs. Ideally as a project, we would like to stay public and open. 
+Unfortunately, there's been an influx of LLM usage in matching decompilation, and our experience with being public and open has been that LLM users have forked or made use of efforts with LLMs despite our wishes.
+
+As a result, this repository is currently archived, and the project has been moved to a private repository on Codeberg. If you are interesting in becoming a contributor, please read the wiki here and get in touch with us on Discord.
 
 ***
 
